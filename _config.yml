@@ -6,33 +6,21 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Elias Strehle
-title: Software Engineer and Researcher
-email: strehle.elias@gmail.com
+name: Esther Vogt
+title: Data Scientist @Uni Mannheim & NTNU Trondheim
+email: esther-vogt@gmx.net
 
 darkmode: false
 
 # Social links
-github_username:  estrehle
-linkedin_username: elias-strehle-474a11128
-orcid_username: 0000-0002-4351-7865
+github_username:  qm2020-esvogt
+linkedin_username: esther-vogt-53104aa1
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  After studying business administration and financial mathematics, I completed my PhD in mathematics in 2017.
-  Since then I have worked in IT - as a Python data engineer, blockchain researcher and TypeScript full-stack developer.
-
-  My passion is to make complicated things work.
-  I enjoy teaching myself and others complex concepts, from mathematics to machine learning and software architecture.
-  And I enjoy building things that put these concepts to work and make a difference in real life.
-  Software projects let me do both.
-  Especially those projects that come with a twist:
-  cutting-edge technology, multi-agent networks, concurrency issues, thorny privacy requirements, etc.
-  
-  As much as I enjoy programming, however, I view it as a tool to accomplish things that are useful.
-  My best moments as a developer were not spent in front of my IDE but in conversations with smart and passionate people.
+ #TODO: add some content here
 
 content:
   - title: IT Experience # Title for the section
