@@ -18,83 +18,71 @@ linkedin_username: esther-vogt-53104aa1
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/Esther_Vogt.png
 about_content: | # this will include new lines to allow paragraphs
  #TODO: add some content here
 
 content:
-  - title: IT Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Fullstack Development
-        description: | # this will include new lines to allow paragraphs
-          I taught myself TypeScript/JavaScript in early 2021.
-          Since then I have built several prototypes of full-stack applications.
-          My current default tech stack includes the Angular and Nest.js frameworks, MySQL, Docker, GitHub and AWS (EC2, RDS, Amplify, Lightsail).
-          Take a look at my showcase [server-to-server chat application](https://github.com/estrehle/webchat) to see how I code.
-      - layout: left
-        title: Decentralized Data Exchanges
-        description: |
-          Much of my recent work has revolved around decentralized data exchanges.
-          These are computer networks where data is stored and controlled by its owners instead of a central agent.
-          My personal focus within this area has been on the (in-)applicability of blockchain technology and [self-sovereign identity](https://en.wikipedia.org/wiki/Self-sovereign_identity) frameworks.
-          Some of my outputs are publicly available, including a [blog post](https://www.blockchainresearchlab.org/2020/12/11/enterprise-dlt-the-leaky-trust-machine-2/) on blockchain's confidentiality issues
-          and a [working paper](https://www.blockchainresearchlab.org/wp-content/uploads/2020/05/BRL-Working-Paper-No-18-DibiChain.pdf) sketching a privacy-preserving decentralized data exchange.
-
-          Currently I am part of the [BloG³ research project](https://www.blog3.de/) (link in German) which aims to give patients autonomy over their medical data.
-          My contribution to the project includes co-architecting and co-implementing a decentralized data exchange built on top of the [Hyperledger Aries](https://www.hyperledger.org/use/aries) toolkit.
-          Unfortunately, the results are not (yet) public.
-      - layout: left
-        title: Data Engineering and Machine Learning
-        description: |
-          I have experience in various stages of the data processing life cycle, including automated data import from REST APIs,
-          data modeling and transformation in TypeScript and Python,
-          interaction with relational databases through ORMs and SQL
-          as well as basic knowledge of machine learning and deep learning.
-          For a developer, my aversion to Microsoft Office is unusually low, and I enjoy explaining and presenting data to all kinds of audiences.
+#  - title: IT Experience # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: Fullstack Development
+#        description: | # this will include new lines to allow paragraphs
+#          I taught myself TypeScript/JavaScript in early 2021.
+#          Since then I have built several prototypes of full-stack applications.
+#          My current default tech stack includes the Angular and Nest.js frameworks, MySQL, Docker, GitHub and AWS (EC2, RDS, Amplify, Lightsail).
+#          Take a look at my showcase [server-to-server chat application](https://github.com/estrehle/webchat) to see how I code.
+#      - layout: left
+#        title: Decentralized Data Exchanges
+#        description: |
+#          Much of my recent work has revolved around decentralized data exchanges.
+#          These are computer networks where data is stored and controlled by its owners instead of a central agent.
+#          My personal focus within this area has been on the (in-)applicability of blockchain technology and [self-sovereign identity](https://en.wikipedia.org/wiki/Self-sovereign_identity) frameworks.
+#          Some of my outputs are publicly available, including a [blog post](https://www.blockchainresearchlab.org/2020/12/11/enterprise-dlt-the-leaky-trust-machine-2/) on blockchain's confidentiality issues
+#          and a [working paper](https://www.blockchainresearchlab.org/wp-content/uploads/2020/05/BRL-Working-Paper-No-18-DibiChain.pdf) sketching a privacy-preserving decentralized data exchange.
+#
+#          Currently I am part of the [BloG³ research project](https://www.blog3.de/) (link in German) which aims to give patients autonomy over their medical data.
+#          My contribution to the project includes co-architecting and co-implementing a decentralized data exchange built on top of the [Hyperledger Aries](https://www.hyperledger.org/use/aries) toolkit.
+#          Unfortunately, the results are not (yet) public.
+#      - layout: left
+#        title: Data Engineering and Machine Learning
+#        description: |
+#          I have experience in various stages of the data processing life cycle, including automated data import from REST APIs,
+#          data modeling and transformation in TypeScript and Python,
+#          interaction with relational databases through ORMs and SQL
+#          as well as basic knowledge of machine learning and deep learning.
+#          For a developer, my aversion to Microsoft Office is unusually low, and I enjoy explaining and presenting data to all kinds of audiences.
 
   - title: Professional Experience
     layout: list
     content:
     - layout: top-middle
-      title: CTO
-      sub_title: CircularTree
-      caption: April 2021 - Present
-      link: https://www.circulartree.com/
-      link_text: circulartree.com
-    - layout: top-middle
-      title: Blockchain Researcher
-      sub_title: Blockchain Research Lab
-      caption: August 2019 - April 2021
-    - layout: top-middle
-      title: Python Software Engineer and Data Scientist
-      sub_title: Yieldlove
-      caption: June 2018 - August 2019
-    - layout: top-middle
-      title: Data Engineer and Data Scientist
-      sub_title: Rheindata
-      caption: January 2018 - June 2018
-    - layout: top-middle
-      title: Research Assistant
-      sub_title: University of Mannheim
-      caption: October 2014 - December 2017
+      title: Intern & Working Student
+      sub_title: BASF SE, Software Development Industry 4.0
+      caption: 01/2021 - 12/2021
+#      link: https://www.circulartree.com/
+#      link_text: circulartree.com
 
   - title: Education
     layout: list
     content:
     - layout: top-middle
-      title: Dr. rer. nat. Financial Mathematics (summa cum laude)
+      title: M.Sc. Data Science
       sub_title: University of Mannheim
-      caption: 2014 - 2017
+      caption: 2020 - present
     - layout: top-middle
-      title: M.Sc. Financial Mathematics
-      sub_title: Christian-Albrecht University of Kiel
-      caption: 2012 - 2014
+      title: Erasmus Study Exchange
+      sub_title: Norwegian University of Science and Technology, Trondheim
+      caption: 2022
     - layout: top-middle
       title: B.Sc. Business Administration
-      sub_title: University of Mannheim
-      caption: 2008 - 2011
+      sub_title: WFI Ingolstadt School of Management
+      caption: 2016 - 2019
+    - layout: top-middle
+      title: Erasmus Study Exchange
+      sub_title: Hanken School of Economics, Helsinki
+      caption: 2018
 
 # Footer
 footer_show_references: true
